@@ -1,0 +1,56 @@
+.header-in{
+    background: rgb(0,62,124);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    height: 10vh;
+
+}
+
+.menu nav a{
+    color: white;
+    text-decoration: none;
+    font-size: 2rem;
+    padding: 1rem;
+    margin-right: 1rem;
+
+
+}
+
+.menu nav a:hover
+{
+    background: yellow;
+}
+
+
+
+.img-logo{
+    width: 30%;
+}
+
+h1{
+    font-size: 2rem;
+    
+
+} 
+
+.info{
+    font-size: 1rem;
+    color: black;
+    
+    
+
+
+
+}
+
+
+
+.footer-in{
+    font-size: 1rem;
+    color: black;
+    border-top: 1px solid black;
+    height: 100px;
+    
+
+}
